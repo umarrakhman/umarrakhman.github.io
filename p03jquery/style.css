@@ -50,3 +50,15 @@ td:first-child{
 td:hover{
     background-color: grey;
 }
+
+div {
+    margin: auto;
+    width: 5%;
+    cursor: pointer;
+}
+button {
+    border: none;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 10px;     
+}
